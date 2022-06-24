@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AB2/SYVq1IPK4wMrzXrTEEIfpGG7CJuJuHRKluud4Wg=",
+  "Source": "lapt-auth",
+  "BasePath": "_content/lapt-auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
